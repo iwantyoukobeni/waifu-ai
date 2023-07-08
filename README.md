@@ -24,3 +24,4 @@ HERES ME ON ONE OF MY ALT ACCOUNTS TESTING ON HOWIT SHOULD LOOK IN YOUR PERSPECT
 ![image - 2023-07-08T103458 298](https://github.com/v6y4/waifu-ai/assets/121084767/81877f49-96d6-41ce-b2bb-5f848f87e396)
 ![image - 2023-07-08T103522 628](https://github.com/v6y4/waifu-ai/assets/121084767/64964715-6d45-4cef-ba42-7d6ba088ccfb)
 ![image - 2023-07-08T104146 282](https://github.com/v6y4/waifu-ai/assets/121084767/0aaa5811-6156-4613-887a-cc36f91e4ced)
+/help for additional info
