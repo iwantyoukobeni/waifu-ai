@@ -27,3 +27,5 @@ HERES ME ON ONE OF MY ALT ACCOUNTS TESTING ON HOWIT SHOULD LOOK IN YOUR PERSPECT
 /help for additional info
 # NEW UPDATE !waifuu play me a song plays a random anime opening or ending i only added 4 openings or endings of random anime so i will be adding more soon/NEXT UPDATE WILL TAKE SOMETIME SO BE PATIENT FOR THE NEXT COMMAND UPDATE 
 ![image - 2023-07-11T135449 856](https://github.com/v6y4/waifu-ai/assets/121084767/2d92b82d-7e7d-4370-bb49-6aca30a8ffd6)
+# SMALL ERROR ive noticed that the !waifu command is the main command that goes down so i did some editing to the code it should be better now (error fix)
+![image - 2023-07-15T031225 539](https://github.com/v6y4/waifu-ai/assets/121084767/4a56f616-0f30-470c-825f-ee808f5c0bec)
