@@ -1,14 +1,5 @@
-![img-zUIEFJqWFHD6tN3MiD1bh](https://github.com/v6y4/waifu-ai/assets/121084767/f2449ca6-dee9-4771-9b0e-ca255ccdf13c)
-![Uploading img-zQhj9uggi9Qp3wFNyrIbP.png…]()
-![img-YTHhEIELBE4B9azwwe1Rp](https://github.com/v6y4/waifu-ai/assets/121084767/f3c9ac11-2ab5-47d8-965f-989c81c53cfe)
-![img-YTHhEIELBE4B9azwwe1Rp (1)](https://github.com/v6y4/waifu-ai/assets/121084767/4ccef60b-80e0-4fc1-b3a1-fab40b7ff886)
-![Uploading img-uzMBcEXw5mcAS32Y1TOPX.png…]()
-![Uploading img-TopbBgU1YyZVpCtrujeHk.png…]()
-![img-IyvVC5n5PngVNofMDq7Tz](https://github.com/v6y4/waifu-ai/assets/121084767/09eeebfb-8398-4c24-8f9d-bea700de3b07)
-![Uploading img-GnqNC1v1iKyyXW4yylyMA.png…]()
-![img-GnqNC1v1iKyyXW4yylyMA](https://github.com/v6y4/waifu-ai/assets/121084767/dc7b7296-1815-4afe-a6fe-b9528f4ad10c)
 # waifu-ai
-i am the creator of this bot this bot can speak using voicevox and also so much other stuff basicly this is a mix of rapid api for the chatbot and voicevox for the audio i will be combining them soon but they are giving me a little bit of trouble when i try and combine the code or the 2 apis.  well enough with the geeky stuff i do. the !commands will give u every command and tell u what everything does make sure to dm me at unaffectionately for any help btw i do use free uptime that run on multiple so usually the bot is on 24/7 NEVER EVER DOWN (BOT IS ALWAYS ON ) but sometimes 1 or 2 of the code will go off BUT DONT WORRY it will usually come right back hope u enjoy my bot https://discord.com/oauth2/authorize?client_id=1124359043532718211&amp;permissions=8&amp;scope=bot  
+i am the creator of this bot this bot can speak using voicevox and also so much other stuff basicly this is a mix of rapid api for the chatbot and voicevox for the audio i will be combining them soon but they are giving me a little bit of trouble when i try and combine the code or the 2 apis.  well enough with the geeky stuff i do. the !commands will give u every command and tell u what everything does make sure to dm me at unaffectionately for any help btw i do use free uptime that run on multiple so usually the bot is on 24/7 NEVER EVER DOWN (BOT IS ALWAYS ON ) but sometimes 1 or 2 of the code will go off (ONLY IF MY SERVERS ARE SLOW) BUT DONT WORRY it will usually come right back hope u enjoy my bot https://discord.com/oauth2/authorize?client_id=1124359043532718211&amp;permissions=8&amp;scope=bot  
 
 
 THINGS ABOUT THE BOT
@@ -44,3 +35,12 @@ HERES ME ON ONE OF MY ALT ACCOUNTS TESTING ON HOWIT SHOULD LOOK IN YOUR PERSPECT
 ![img-fUsWvCagPh71DqFWsCMXl](https://github.com/v6y4/waifu-ai/assets/121084767/18f46b32-c596-41e7-9865-b9f906ed89c8)
 ![Uploading img-9LhSpclVO3airzwmihdnI.png…]()
 ![img-4oa9hH6EOatGrTLg0aZZ8](https://github.com/v6y4/waifu-ai/assets/121084767/bde60e42-6688-44cf-98b8-ed52567e0509)
+![img-zUIEFJqWFHD6tN3MiD1bh](https://github.com/v6y4/waifu-ai/assets/121084767/f2449ca6-dee9-4771-9b0e-ca255ccdf13c)
+![Uploading img-zQhj9uggi9Qp3wFNyrIbP.png…]()
+![img-YTHhEIELBE4B9azwwe1Rp](https://github.com/v6y4/waifu-ai/assets/121084767/f3c9ac11-2ab5-47d8-965f-989c81c53cfe)
+![img-YTHhEIELBE4B9azwwe1Rp (1)](https://github.com/v6y4/waifu-ai/assets/121084767/4ccef60b-80e0-4fc1-b3a1-fab40b7ff886)
+![Uploading img-uzMBcEXw5mcAS32Y1TOPX.png…]()
+![Uploading img-TopbBgU1YyZVpCtrujeHk.png…]()
+![img-IyvVC5n5PngVNofMDq7Tz](https://github.com/v6y4/waifu-ai/assets/121084767/09eeebfb-8398-4c24-8f9d-bea700de3b07)
+![Uploading img-GnqNC1v1iKyyXW4yylyMA.png…]()
+![img-GnqNC1v1iKyyXW4yylyMA](https://github.com/v6y4/waifu-ai/assets/121084767/dc7b7296-1815-4afe-a6fe-b9528f4ad10c)
