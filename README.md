@@ -29,3 +29,5 @@ HERES ME ON ONE OF MY ALT ACCOUNTS TESTING ON HOWIT SHOULD LOOK IN YOUR PERSPECT
 ![image - 2023-07-11T135449 856](https://github.com/v6y4/waifu-ai/assets/121084767/2d92b82d-7e7d-4370-bb49-6aca30a8ffd6)
 # SMALL ERROR ive noticed that the !waifu command is the main command that stops working sometimes so i did some editing to the code it should be better now (error fix)(no more gif issue hopefully if u still have a issue tell me in issues)
 ![image - 2023-07-15T031225 539](https://github.com/v6y4/waifu-ai/assets/121084767/4a56f616-0f30-470c-825f-ee808f5c0bec)
+# SMALL ERROR 0 BYTE NO AUDIO FILE ( there is nothing i can do for this error this completely depends on the connection of my discord bot the api and the connection of my servers/api) (besides that though it completely works and usually you will never ever get a 0 byte file)
+![image - 2023-07-17T065434 352](https://github.com/v6y4/waifu-ai/assets/121084767/6a0ae17f-a67b-4564-b619-85ae03c93945)
