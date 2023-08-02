@@ -10,6 +10,7 @@ THINGS ABOUT THE BOT
 !waifu shows a random anime waifu from giphy
 v6ttsaaa speak to a horny waifu
 !waifutalk tell me a catchphrase sends a random audio anime waifu catchphrase
+!waifuu play a song for me
 
 https://github.com/v6y4/waifu-ai/assets/121084767/5eee3134-1251-4cc8-832a-8f37e122ff67
 
