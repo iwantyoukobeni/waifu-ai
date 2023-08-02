@@ -31,16 +31,5 @@ HERES ME ON ONE OF MY ALT ACCOUNTS TESTING ON HOWIT SHOULD LOOK IN YOUR PERSPECT
 ![image - 2023-07-15T031225 539](https://github.com/v6y4/waifu-ai/assets/121084767/4a56f616-0f30-470c-825f-ee808f5c0bec)
 # SMALL ERROR 0 BYTE NO AUDIO FILE ( there is nothing i can do for this error this completely depends on the connection of my discord bot the api and the connection of my servers/api) (besides that though it completely works and usually you will never ever get a 0 byte file)
 ![image - 2023-07-17T065434 352](https://github.com/v6y4/waifu-ai/assets/121084767/6a0ae17f-a67b-4564-b619-85ae03c93945)
-# CELEBRATING 51 SERVERS HERE ARE SOME IMAGES OF v6ttsaaa AI waifu
-![img-fUsWvCagPh71DqFWsCMXl](https://github.com/v6y4/waifu-ai/assets/121084767/18f46b32-c596-41e7-9865-b9f906ed89c8)
-![Uploading img-9LhSpclVO3airzwmihdnI.png…]()
-![img-4oa9hH6EOatGrTLg0aZZ8](https://github.com/v6y4/waifu-ai/assets/121084767/bde60e42-6688-44cf-98b8-ed52567e0509)
-![img-zUIEFJqWFHD6tN3MiD1bh](https://github.com/v6y4/waifu-ai/assets/121084767/f2449ca6-dee9-4771-9b0e-ca255ccdf13c)
-![Uploading img-zQhj9uggi9Qp3wFNyrIbP.png…]()
-![img-YTHhEIELBE4B9azwwe1Rp](https://github.com/v6y4/waifu-ai/assets/121084767/f3c9ac11-2ab5-47d8-965f-989c81c53cfe)
-![img-YTHhEIELBE4B9azwwe1Rp (1)](https://github.com/v6y4/waifu-ai/assets/121084767/4ccef60b-80e0-4fc1-b3a1-fab40b7ff886)
-![Uploading img-uzMBcEXw5mcAS32Y1TOPX.png…]()
-![Uploading img-TopbBgU1YyZVpCtrujeHk.png…]()
-![img-IyvVC5n5PngVNofMDq7Tz](https://github.com/v6y4/waifu-ai/assets/121084767/09eeebfb-8398-4c24-8f9d-bea700de3b07)
-![Uploading img-GnqNC1v1iKyyXW4yylyMA.png…]()
-![img-GnqNC1v1iKyyXW4yylyMA](https://github.com/v6y4/waifu-ai/assets/121084767/dc7b7296-1815-4afe-a6fe-b9528f4ad10c)
+# HUGE UPDATE AT THE MOMNET THE API FOR THE WAIFU CHATBOT ACTULLAY ISNT WORKING (command = v6ttsaaa) (its temporary outage at the moment) the guy will be fixing it soon hopefully if not i will recreate one myself/ also I WILL BE ADDING PREMIUM COMMANDS 1 nitro will give u access to commands with voice chat ai chatbot but as a waifu with audio file (even including watching anime) stay tunned for that these commands will be comming very soon u will have to send me a friend request unaffectionately on discord and when i get the nitro i will copy your id tell u the exact command and give u access to the command anyone else who tries these commands will get a error if i havent got nitro yet (may become a monthly subscription soon but for now its perma 1 nitro)
+
