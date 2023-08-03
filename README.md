@@ -34,3 +34,10 @@ HERES ME ON ONE OF MY ALT ACCOUNTS TESTING ON HOWIT SHOULD LOOK IN YOUR PERSPECT
 ![image - 2023-07-17T065434 352](https://github.com/v6y4/waifu-ai/assets/121084767/6a0ae17f-a67b-4564-b619-85ae03c93945)
 # HUGE UPDATE AT THE MOMENT THE API FOR THE WAIFU CHATBOT ACTULLAY ISNT WORKING (command = v6ttsaaa) (its temporary outage at the moment) the guy will be fixing it soon hopefully if not i will recreate one myself/ also I WILL BE ADDING PREMIUM COMMANDS 1 nitro will give u access to commands with voice chat ai chatbot but as a waifu with audio file (even including watching anime) stay tunned for that these commands will be comming very soon u will have to send me a friend request unaffectionately on discord and when i get the nitro i will copy your id tell u the exact command and give u access to the command anyone else who tries these commands will get a error if i havent got nitro yet (may become a monthly subscription soon but for now its permanet 1 nitro) ps. i will probaly be dropping these commands in the command list later today or tommorow (also remember right now v6ttsaaa IS NOT WORKING AT THE MOMENT (THESE COMMANDS ARE IN THERE EARLY STAGE THERE WILL BE SOME FLAWS BUT IT IS BETTER THAN NOTHING) 
 
+# NEW UPDATE v6tsa chan is now a command now as i said this command will not be free this is a (waifu premium command) in order to pay you can add me on discord at unaffectionately OR instantly pay using and following the directions on this google form https://forms.gle/kQEsY5rwcUTq5CZ66 (NEXT PREMIUM COMMAND NAMED WATCH RANDOM ANIME IS COMMING SOON VERY SOON ACTULLAY) will also have its very own google form stay tuned for that
+https://github.com/v6y4/waifu-ai/assets/121084767/1c2e5012-e517-4cfe-a0fe-ccc50538b67d
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/1eb768d3-6eb3-480d-9b38-3154b6ed55d4)
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/1178b47f-b398-48f8-91c3-35a875a776a4)
+here is what happens if u dont pay or havent paid yet
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/6484c8a8-9a28-47d4-a9a5-9b325a5077ca)
+
