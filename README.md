@@ -34,11 +34,12 @@ HERES ME ON ONE OF MY ALT ACCOUNTS TESTING ON HOWIT SHOULD LOOK IN YOUR PERSPECT
 ![image - 2023-07-17T065434 352](https://github.com/v6y4/waifu-ai/assets/121084767/6a0ae17f-a67b-4564-b619-85ae03c93945)
 # HUGE UPDATE AT THE MOMENT THE API FOR THE WAIFU CHATBOT ACTULLAY ISNT WORKING (command = v6ttsaaa) (its temporary outage at the moment) 
 
-# NEW UPDATE v6tsa chan is now a command now as i said this command will not be free this is a (waifu premium command) in order to pay you can add me on discord at unaffectionately OR instantly pay using and following the directions on this google form https://forms.gle/DAKYW79nkUriCH4LA (NEXT PREMIUM COMMAND NAMED WATCH RANDOM ANIME IS COMMING SOON VERY SOON ACTULLAY) will also have its very own google form stay tuned for that
+# NEW UPDATE v6tsa chan is now a command now as i said this command will not be free this is a (waifu premium command) in order to pay you can add me on discord at unaffectionately OR instantly pay using and following the directions on this google form https://forms.gle/RahnCU1tcNNyn9QYA (NEXT PREMIUM COMMAND NAMED WATCH RANDOM ANIME IS COMMING SOON VERY SOON ACTULLAY) will also have its very own google form stay tuned for that (UPDATE ANIME WATCH COMMAND HAS DROPPED TOO)
 
 
 https://github.com/v6y4/waifu-ai/assets/121084767/34e73f6f-9c93-4094-bd7b-7fa512c700eb
 
+![image - 2023-08-03T194906 770](https://github.com/v6y4/waifu-ai/assets/121084767/ea32f56f-7c3d-48f6-9314-2c650a66756c)
 
 ![image](https://github.com/v6y4/waifu-ai/assets/121084767/1eb768d3-6eb3-480d-9b38-3154b6ed55d4)
 ![image](https://github.com/v6y4/waifu-ai/assets/121084767/1178b47f-b398-48f8-91c3-35a875a776a4)
