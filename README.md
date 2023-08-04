@@ -46,4 +46,4 @@ https://github.com/v6y4/waifu-ai/assets/121084767/34e73f6f-9c93-4094-bd7b-7fa512
 here is what happens if u dont pay or havent paid yet
 ![image](https://github.com/v6y4/waifu-ai/assets/121084767/6484c8a8-9a28-47d4-a9a5-9b325a5077ca)
 
-right now the only disadvantages is it sometimes repeats letters and words sometimes !!!
+MINI UPDATE I HAVE FIXED THE DISADVANTAGES
