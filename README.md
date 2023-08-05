@@ -1,6 +1,6 @@
 # waifu-ai
 SCROLL DOWN TO KNOW EVERYTHING INCLUDING UPDATES AND SO MUCH MORE HERE IS THE LINK TO ADD MY DISCORD BOT TO YOUR SERVER !!
-https://discord.com/oauth2/authorize?client_id=1124359043532718211&amp;permissions=8&amp;scope=bot  
+[https://discord.com/oauth2/authorize?client_id=1124359043532718211&amp;permissions=8&amp;scope=bot  ](https://discord.com/api/oauth2/authorize?client_id=1124359043532718211&permissions=8&scope=applications.commands%20bot)
 
 
 THINGS ABOUT THE BOT
