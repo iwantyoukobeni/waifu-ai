@@ -1,5 +1,6 @@
 # waifu-ai
-i am the creator of this bot this bot can speak using voicevox and also so much other stuff basicly this is a mix of rapid api for the chatbot and voicevox for the audio i will be combining them soon but they are giving me a little bit of trouble when i try and combine the code or the 2 apis.  well enough with the geeky stuff i do. the !commands will give u every command and tell u what everything does make sure to dm me at unaffectionately for any help btw i do use free uptime that run on multiple so usually the bot is on 24/7 NEVER EVER DOWN (BOT IS ALWAYS ON ) but sometimes 1 or 2 of the code will go off (ONLY IF MY SERVERS ARE SLOW) BUT DONT WORRY it will usually come right back hope u enjoy my bot https://discord.com/oauth2/authorize?client_id=1124359043532718211&amp;permissions=8&amp;scope=bot  
+SCROLL DOWN TO KNOW EVERYTHING INCLUDING UPDATES AND SO MUCH MORE HERE IS THE LINK TO ADD MY DISCORD BOT TO YOUR SERVER !!
+https://discord.com/oauth2/authorize?client_id=1124359043532718211&amp;permissions=8&amp;scope=bot  
 
 
 THINGS ABOUT THE BOT
@@ -11,6 +12,8 @@ THINGS ABOUT THE BOT
 v6ttsaaa speak to a horny waifu
 !waifutalk tell me a catchphrase sends a random audio anime waifu catchphrase
 !waifuu play a song for me
+v6tsa chan only works if u have gave nitro to me voice chatting bot
+!watchanime this command lets you watch random anime for all of the listed urls in my database only works if you gave nitro
 
 https://github.com/v6y4/waifu-ai/assets/121084767/5eee3134-1251-4cc8-832a-8f37e122ff67
 
