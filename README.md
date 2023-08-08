@@ -51,5 +51,9 @@ here is what happens if u dont pay or havent paid yet
 ![image](https://github.com/v6y4/waifu-ai/assets/121084767/6484c8a8-9a28-47d4-a9a5-9b325a5077ca)
 
 MINI UPDATE I HAVE FIXED THE DISADVANTAGES
-# v6ttsaaa command was fixed also alot of people might be on edge if u got any weird messages it was my little brother lol trolling so i have beefed up my security so it wont happen again !!
+
+
+https://github.com/v6y4/waifu-ai/assets/121084767/0d54fe0c-2c84-47fc-b084-a84fabef75bf
+
+
 8/6/23 BOT WAS DOWN because i decided to change the token for security purposes dont worry tho everything is ok !!!
