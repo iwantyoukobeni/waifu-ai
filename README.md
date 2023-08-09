@@ -1,8 +1,14 @@
 # waifu-ai
 SCROLL DOWN TO KNOW EVERYTHING INCLUDING UPDATES AND SO MUCH MORE HERE IS THE LINK TO ADD MY DISCORD BOT TO YOUR SERVER !!
+
 [https://discord.com/oauth2/authorize?client_id=1124359043532718211&amp;permissions=8&amp;scope=bot  ](https://discord.com/api/oauth2/authorize?client_id=1124359043532718211&permissions=8&scope=applications.commands%20bot)
 
 NEW DISCORD SUPPORT SERVER https://discord.gg/UCFUhstXTf 8/8/23
+
+also remember if there is anything you want to discuss with me you can always add me 
+
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/59628fc7-d950-4189-8ffa-33dfca2bb96c)
+
 
 THINGS ABOUT THE BOT
 !about - about the bot
@@ -24,7 +30,7 @@ https://github.com/v6y4/waifu-ai/assets/121084767/5eee3134-1251-4cc8-832a-8f37e1
 
 
 
-HERES ME ON ONE OF MY ALT ACCOUNTS TESTING ON HOWIT SHOULD LOOK IN YOUR PERSPECTIVE WHEN U ADD THE BOT YOUR SERVER ![image - 2023-07-08T103439 758](https://github.com/v6y4/waifu-ai/assets/121084767/be898ebd-7e32-46ce-968e-055966472ca7)
+HERES ME ON ONE OF MY ALT ACCOUNTS TESTING ON HOW IT SHOULD LOOK IN YOUR PERSPECTIVE WHEN U ADD THE BOT YOUR SERVER ![image - 2023-07-08T103439 758](https://github.com/v6y4/waifu-ai/assets/121084767/be898ebd-7e32-46ce-968e-055966472ca7)
 ![image - 2023-07-08T103451 056](https://github.com/v6y4/waifu-ai/assets/121084767/de705abc-c5ea-4d0c-993d-94ae98283526)
 ![image - 2023-07-08T103458 298](https://github.com/v6y4/waifu-ai/assets/121084767/81877f49-96d6-41ce-b2bb-5f848f87e396)
 ![image - 2023-07-08T103522 628](https://github.com/v6y4/waifu-ai/assets/121084767/64964715-6d45-4cef-ba42-7d6ba088ccfb)
