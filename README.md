@@ -31,6 +31,7 @@ https://github.com/v6y4/waifu-ai/assets/121084767/5eee3134-1251-4cc8-832a-8f37e1
 
 
 HERES ME ON ONE OF MY ALT ACCOUNTS TESTING ON HOW IT SHOULD LOOK IN YOUR PERSPECTIVE WHEN U ADD THE BOT YOUR SERVER 
+
 ![image - 2023-07-08T103439 758](https://github.com/v6y4/waifu-ai/assets/121084767/be898ebd-7e32-46ce-968e-055966472ca7)
 
 ![image - 2023-07-08T103451 056](https://github.com/v6y4/waifu-ai/assets/121084767/de705abc-c5ea-4d0c-993d-94ae98283526)
