@@ -69,3 +69,8 @@ https://github.com/v6y4/waifu-ai/assets/121084767/0d54fe0c-2c84-47fc-b084-a84fab
 
 
 8/6/23 BOT WAS DOWN because i decided to change the token for security purposes dont worry tho everything is ok !!!
+
+# NEW UPDATE !anichan COMMAND lets u get info about anime and can also sometimes generate audio depending on how much words this is a waifu premium command as well so check the other updates for more info about that !!! watch this video to know more about it !!! 
+
+https://github.com/v6y4/waifu-ai/assets/121084767/6868e37b-f9d9-46b9-911e-dcfb578b2aaa
+
