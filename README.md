@@ -90,3 +90,5 @@ https://github.com/v6y4/waifu-ai/assets/121084767/861dace4-ca08-4988-94c1-284ce8
 it will be able to do the exact same thing !anichan does in the v6ttsaaa bot but free it will be the only command on the anichan bot tho !
 
 https://github.com/v6y4/waifu-ai/assets/121084767/861dace4-ca08-4988-94c1-284ce85ba389
+
+ps. anichan is gonna have a completely different voice from v6ttsaaa sense there different bots they should have different voices ha
