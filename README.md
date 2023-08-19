@@ -26,6 +26,7 @@ v6ttsaaa speak to a horny waifu
 !waifuu play a song for me
 v6tsa chan only works if u have gave nitro to me voice chatting bot
 !watchanime this command lets you watch random anime for all of the listed urls in my database only works if you gave nitro
+!anichan gets you info on anime shows characters etc and can also voicechat the words only works if u gave nitro /but it is free if u add the anichan bot !!
 
 https://github.com/v6y4/waifu-ai/assets/121084767/5eee3134-1251-4cc8-832a-8f37e122ff67
 
@@ -79,3 +80,13 @@ https://github.com/v6y4/waifu-ai/assets/121084767/0d54fe0c-2c84-47fc-b084-a84fab
 
 https://github.com/v6y4/waifu-ai/assets/121084767/6868e37b-f9d9-46b9-911e-dcfb578b2aaa
 
+# mini update i have updated the command !anichan ive updated the api and everything so there will be no type of issues 
+
+https://github.com/v6y4/waifu-ai/assets/121084767/861dace4-ca08-4988-94c1-284ce85ba389
+
+# HUGE UPDATE THE DISCORD BOT v6ttsaaa has reached 100 servers !!! sadly no more will be able to use this bot due to the discord verification process but i am planning to get my ID soon and verify it so more people can use it !!! and another thing another bot is being made already !!! the !anichan command will be completely free with this new bot called anichan (temporarily not avalible but will be avalible shortly)
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/050166c5-df28-4df4-ab54-59b02e79322a)
+
+it will be able to do the exact same thing !anichan does in the v6ttsaaa bot but free it will be the only command on the anichan bot tho !
+
+https://github.com/v6y4/waifu-ai/assets/121084767/861dace4-ca08-4988-94c1-284ce85ba389
