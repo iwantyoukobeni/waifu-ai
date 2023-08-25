@@ -24,6 +24,8 @@ THINGS ABOUT THE BOT
 v6ttsaaa speak to a horny waifu
 !waifutalk tell me a catchphrase sends a random audio anime waifu catchphrase
 !waifuu play a song for me
+!uwu uwuify any text or paragraph
+!diffusion turns anything u type into your desired image by tag
 v6tsa chan only works if u have gave nitro to me voice chatting bot
 !watchanime this command lets you watch random anime for all of the listed urls in my database only works if you gave nitro
 !anichan gets you info on anime shows characters etc and can also voicechat the words only works if u gave nitro /but it is free if u add the anichan bot !!
@@ -96,3 +98,12 @@ ps. anichan is gonna have a completely different voice from v6ttsaaa sense there
 THE BOT IS NOW ONLINE AND WORKING https://discord.com/api/oauth2/authorize?client_id=1142305796785438750&permissions=8&scope=applications.commands%20bot (free use of my !anichan command with this bot!!!)
 
 ![image](https://github.com/v6y4/waifu-ai/assets/121084767/ffe88dd8-0893-4451-8eac-ef106d22aaa6)
+
+# update to v6ttsaaa commands list !!! two new commands accessible to everyone not waifu premium commands !! !diffusion and !uwu 
+this command !diffusion allows you to get random waifu/anime art for example !diffusion red_hair (will get a red hair art image!)
+
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/39d41fb3-1ef2-49b5-9e40-70d26aa44c18)
+
+this command !uwu (uwuifys the text and turns your normal text to uwu speech lol)
+
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/2e87b8e7-b604-427c-95cb-4d5445865552)
