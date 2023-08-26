@@ -12,7 +12,8 @@ NEW DISCORD SUPPORT SERVER https://discord.gg/UCFUhstXTf 8/8/23
 
 also remember if there is anything you want to discuss with me you can always add me 
 
-![image](https://github.com/v6y4/waifu-ai/assets/121084767/59628fc7-d950-4189-8ffa-33dfca2bb96c)
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/bd8e7bb3-d6bd-4579-b5b7-2f7e7eeee94f)
+
 
 
 THINGS ABOUT THE BOT
@@ -26,6 +27,8 @@ v6ttsaaa speak to a horny waifu
 !waifuu play a song for me
 !uwu uwuify any text or paragraph
 !diffusion turns anything u type into your desired image by tag
+!manga - allows u to read a manga title that is available.
+!mangahelp - shows the extra commands !list !next 
 v6tsa chan only works if u have gave nitro to me voice chatting bot
 !watchanime this command lets you watch random anime for all of the listed urls in my database only works if you gave nitro
 !anichan gets you info on anime shows characters etc and can also voicechat the words only works if u gave nitro /but it is free if u add the anichan bot !!
@@ -86,7 +89,7 @@ https://github.com/v6y4/waifu-ai/assets/121084767/6868e37b-f9d9-46b9-911e-dcfb57
 
 https://github.com/v6y4/waifu-ai/assets/121084767/861dace4-ca08-4988-94c1-284ce85ba389
 
-# HUGE UPDATE THE DISCORD BOT v6ttsaaa has reached 100 servers !!! sadly no more will be able to use this bot due to the discord verification process but i am planning to get my ID soon and verify it so more people can use it !!! and another thing another bot is being made already !!! the !anichan command will be completely free with this new bot called anichan (temporarily not avalible but will be avalible shortly)
+# HUGE UPDATE THE DISCORD BOT v6ttsaaa has reached 100 servers !!! sadly no more will be able to use this bot due to the discord verification process but i am planning to get my ID soon and verify it so more people can use it !!! and another thing another bot is being made already !!! the !anichan command will be completely free with this new bot called anichan (temporarily not avalible but will be avalible shortly) BOT WILL BE VERIFIED VERY VERY SOON DONT WRRY EVERYONE WHO CANT ADD IT !!!
 ![image](https://github.com/v6y4/waifu-ai/assets/121084767/050166c5-df28-4df4-ab54-59b02e79322a)
 
 it will be able to do the exact same thing !anichan does in the v6ttsaaa bot but free it will be the only command on the anichan bot tho !
@@ -107,3 +110,22 @@ this command !diffusion allows you to get random waifu/anime art for example !di
 this command !uwu (uwuifys the text and turns your normal text to uwu speech lol)
 
 ![image](https://github.com/v6y4/waifu-ai/assets/121084767/2e87b8e7-b604-427c-95cb-4d5445865552)
+
+# NEW UPDATE !manga !mangahelp manga help shows the extra commands !list !next and !manga allows u to read a manga title that is available. (NOTE. THIS COMMAND IS IN ITS EARLY STAGE RIGHT NOW THERE IS ONLY 1 MANGA AVALIBLE I WILL BE ADDING MORE ! CHECK THE IMAGES BELOW !
+
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/1e256f78-63d3-4619-b9a7-b7e2b5ce1466)
+
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/05b6f779-6cce-4bcb-a038-6dc493726a74)
+
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/4214dbd0-b76c-4571-b869-71ef1059ab23)
+
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/26890a52-f3cd-458b-9a7a-6aaee20ba509)
+
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/06099c80-e21c-42cd-ab2c-8f37b9ff09a9)
+
+IF U WANT U CAN JOIN MY DISCORD SUPPORT SERVER AND TELL ME SOME MANGA TITLES U WANT ME TO ADD BY MAKING A TICKET BUT ANYWAYS MORE MANGA WILL BE ADDED SOON!!
+
+
+
+
+
