@@ -8,6 +8,7 @@ also remember if there is anything you want to discuss with me you can always ad
 
 ![image](https://github.com/v6y4/waifu-ai/assets/121084767/bd8e7bb3-d6bd-4579-b5b7-2f7e7eeee94f)
 
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/9c0e3359-f76c-490f-90b2-a6b8211b57d6)
 
 
 THINGS ABOUT THE BOT
