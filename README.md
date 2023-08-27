@@ -8,7 +8,7 @@ also remember if there is anything you want to discuss with me you can always ad
 
 ![image](https://github.com/v6y4/waifu-ai/assets/121084767/bd8e7bb3-d6bd-4579-b5b7-2f7e7eeee94f)
 
-![image](https://github.com/v6y4/waifu-ai/assets/121084767/9c0e3359-f76c-490f-90b2-a6b8211b57d6)
+
 
 
 THINGS ABOUT THE BOT
@@ -124,6 +124,7 @@ IF U WANT U CAN JOIN MY DISCORD SUPPORT SERVER AND TELL ME SOME MANGA TITLES U W
 
 ![image](https://github.com/v6y4/waifu-ai/assets/121084767/c9695e4c-8e3f-4249-bb81-3337bf6f34e2)
 
+right now its not going so well ill keep everyone updated.
 
-
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/9c0e3359-f76c-490f-90b2-a6b8211b57d6)
 
