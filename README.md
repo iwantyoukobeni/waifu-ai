@@ -126,5 +126,6 @@ IF U WANT U CAN JOIN MY DISCORD SUPPORT SERVER AND TELL ME SOME MANGA TITLES U W
 
 right now its not going so well ill keep everyone updated.
 
-![image](https://github.com/v6y4/waifu-ai/assets/121084767/9c0e3359-f76c-490f-90b2-a6b8211b57d6)
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/6b6f97cb-0ad5-49f1-a986-65dd2adfbc8f)
+
 
