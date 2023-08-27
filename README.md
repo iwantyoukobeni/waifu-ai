@@ -1,10 +1,4 @@
-# waifu-ai ![Actions Status](https://github.com/github/linguist/workflows/Run%20Tests/badge.svg) 
-
-<h3 align="left">Languages used</h3>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> 
-
-
-SCROLL DOWN TO KNOW EVERYTHING INCLUDING UPDATES AND SO MUCH MORE HERE IS THE LINK TO ADD MY DISCORD BOT TO YOUR SERVER (AND YES I DO CREATE DISCORD BOTS FOR PEOPLE INVOLVING THE WAIFU VOICED CHATBOT FOR THE PRICE OF 1 MONTH DISCORD NITRO PAYMENT FIRST BEFORE ANYTHING CAN ALSO DO DIFFERENT VOICES SO ILL SEND U VOICES AND U CAN CHOOSE YOUR FAVORITE WAIFU VOICE OUT OF ALL OF THEM)!!!!
+# waifu-ai SCROLL DOWN TO KNOW EVERYTHING INCLUDING UPDATES AND SO MUCH MORE HERE IS THE LINK TO ADD MY DISCORD BOT TO YOUR SERVER (AND YES I DO CREATE DISCORD BOTS FOR PEOPLE INVOLVING THE WAIFU VOICED CHATBOT FOR THE PRICE OF 1 MONTH DISCORD NITRO PAYMENT FIRST BEFORE ANYTHING CAN ALSO DO DIFFERENT VOICES SO ILL SEND U VOICES AND U CAN CHOOSE YOUR FAVORITE WAIFU VOICE OUT OF ALL OF THEM)!!!!
 
 [https://discord.com/oauth2/authorize?client_id=1124359043532718211&amp;permissions=8&amp;scope=bot  ](https://discord.com/api/oauth2/authorize?client_id=1124359043532718211&permissions=8&scope=applications.commands%20bot)
 
