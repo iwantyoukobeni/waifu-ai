@@ -119,6 +119,9 @@ this command !uwu (uwuifys the text and turns your normal text to uwu speech lol
 
 IF U WANT U CAN JOIN MY DISCORD SUPPORT SERVER AND TELL ME SOME MANGA TITLES U WANT ME TO ADD BY MAKING A TICKET BUT ANYWAYS MORE MANGA WILL BE ADDED SOON!!
 
+# HUGE UPDATE my discord bot has offically been verified right now im working on applying for intents though so no one still wont be able to add the bot untill i finish so !
+
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/c9695e4c-8e3f-4249-bb81-3337bf6f34e2)
 
 
 
