@@ -124,8 +124,8 @@ IF U WANT U CAN JOIN MY DISCORD SUPPORT SERVER AND TELL ME SOME MANGA TITLES U W
 
 ![image](https://github.com/v6y4/waifu-ai/assets/121084767/c9695e4c-8e3f-4249-bb81-3337bf6f34e2)
 
-right now its not going so well ill keep everyone updated.
+right now its not going so well ill keep everyone updated. #mini update i will not be allow over 100 to use this bot because i would have to switch to slash commands so sadly this means no one will be able to add the BOT but i reccomend adding my bot anichan !
 
-![image](https://github.com/v6y4/waifu-ai/assets/121084767/6b6f97cb-0ad5-49f1-a986-65dd2adfbc8f)
+
 
 
