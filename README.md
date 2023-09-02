@@ -120,11 +120,15 @@ this command !uwu (uwuifys the text and turns your normal text to uwu speech lol
 
 IF U WANT U CAN JOIN MY DISCORD SUPPORT SERVER AND TELL ME SOME MANGA TITLES U WANT ME TO ADD BY MAKING A TICKET BUT ANYWAYS MORE MANGA WILL BE ADDED SOON!!
 
-# HUGE UPDATE my discord bot has offically been verified right now im working on applying for intents though so no one still wont be able to add the bot untill i finish so !
+# HUGE UPDATE my discord bot has offically been verified
 
 ![image](https://github.com/v6y4/waifu-ai/assets/121084767/c9695e4c-8e3f-4249-bb81-3337bf6f34e2)
 
-right now its not going so well ill keep everyone updated. #mini update i will not be allowing over 100 to use this bot because i would have to switch to slash commands so sadly this means no one will be able to add the BOT but i reccomend adding my bot anichan and i got so much more bots coming soon all waifu/anime based !
+# NEW UPDATE !waifutinder allows u to like and dislike waifus fun
+
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/4a2dec70-a9ac-4450-a301-f375b588b7df)
+
+
 
 
 
