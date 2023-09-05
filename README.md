@@ -128,6 +128,21 @@ IF U WANT U CAN JOIN MY DISCORD SUPPORT SERVER AND TELL ME SOME MANGA TITLES U W
 
 ![image](https://github.com/v6y4/waifu-ai/assets/121084767/4a2dec70-a9ac-4450-a301-f375b588b7df)
 
+# NEW BIG UPDATE !clips !gifs !hentai !pfps auto commands that play in a channel wont be showing !hentai on hear because its nsfw but the other 3 can be showed also extra simple commands !botinfo !credits 
+
+!clips then mention the channel like this #whatever the channel is !clips #channel and it auto plays anime clips 28 clips so far 10-15 clips will be added some days.
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/ccea98cd-d88c-4078-85d6-5fbe53f439ff)
+
+!gifs then mention the channel like this #whatever the channel is !gifs #channel and it auto plays gifs.
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/b0a41f7c-81a0-4beb-a5a3-bff43ca7e70a)
+
+!pfps then mention the channel like this #whatever the channel is !pfps #channel and it auto plays pfps and banners.
+![image](https://github.com/v6y4/waifu-ai/assets/121084767/82f5b9e1-92d8-4ac6-be18-987c3995acca)
+
+lastly !hentai #whatever channel cant be shown due to the nsfw images obviously but trust me it works the same way as the other 3 Note: these commands can only be done by the owner of the server !!
+
+
+
 
 
 
