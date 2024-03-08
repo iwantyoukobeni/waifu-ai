@@ -7,8 +7,7 @@ import random
 from discord.ext import commands
 import os
 import streamlit as st
-with open("settings.json") as f:
-    settings = json.load(f)
+
 
 bot = commands.Bot(command_prefix=",", intents=discord.Intents.all())
 
