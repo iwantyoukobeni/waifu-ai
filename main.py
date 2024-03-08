@@ -297,7 +297,8 @@ async def cmds(ctx):
     commands_list = "\n".join([f"{command.name}: {command.help}" for command in bot.commands])
     await ctx.send(f"blend in\n```{commands_list}```")
 
-bot.run("MTE0MjMwNTc5Njc4NTQzODc1MA.GhNJT4.zuUkknZyaY0iSQFomf04NJlVsH-FYelGD6JMHI")
+token = os.environ['token']
+bot.run(token)
 
 
 
